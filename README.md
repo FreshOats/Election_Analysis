@@ -4,10 +4,12 @@
 ---
 
 ## Overview
+
 A Colorado Board of Education employee has tasked us to complete the election audit of a recent local congressional election. This audit is to include a count and percentage of votes per candidate, as well as a breakdown of the votes by county, determining which county was the greatest contributor of votes, and of course, the winner of the election.  
 
-### Purpose:
-    Using Python scripting, a series of tasks were needed to determine the results of the election winner as well as the contributions to the vote per county in the state of Colorado. The process taken is as follows:
+### Purpose
+
+Using Python scripting, a series of tasks were needed to determine the results of the election winner as well as the contributions to the vote per county in the state of Colorado. The process taken is as follows:
 1. Winning Candidate Audit
     1. Calculate the total number of votes cast.
     2. Get a complete list of candidates.
@@ -23,7 +25,9 @@ A Colorado Board of Education employee has tasked us to complete the election au
 
 ---
 ## Results and Analysis
-    Based on the audit, Diana DeGette won the election with 73.8% of all votes, and the county with the highest contributing voters was Denver county. 
+
+Based on the audit, Diana DeGette won the election with 73.8% of all votes, and the county with the highest contributing voters was Denver county. 
+
 ---   
 ### The Candidates
 The analysis of the election:
@@ -158,7 +162,9 @@ Ultimately, the results were printed both to the terminal as well as in the elec
 
 ![Terminal](https://user-images.githubusercontent.com/33167541/172964993-a6233f26-07d5-434a-b0b2-e925e3d88135.png)
 
-and the election_analysis.txt output
+and the election_analysis.txt output (the line spacing).
+
+
 ![TextFile](https://user-images.githubusercontent.com/33167541/172965383-b753e241-d368-4f27-a52b-2b52ce6aec78.png)
 
 ---
