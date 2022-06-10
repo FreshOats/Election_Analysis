@@ -1,6 +1,6 @@
 # Election Analysis
 ***An audit of election results using Python.***
-####by Justin R. Papreck
+#### by Justin R. Papreck
 ---
 
 ## Overview
